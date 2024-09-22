@@ -23,7 +23,7 @@ $(document).ready(function () {
         alert("Completeaza ambele campuri!");
       }
     } else {
-        alert('Numele studentului Nu trebuie sa containa cifre!')
+      alert("Numele studentului Nu trebuie sa containa cifre!");
     }
   });
 });
